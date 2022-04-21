@@ -6,4 +6,4 @@ But I think I'll like it
 How to use it
 
 # Test
-$M_{arkdown}$
+$$M_{arkdown}$$
